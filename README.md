@@ -11,7 +11,7 @@
 
 ---
 
-## [Latest Release: 2.0.2](https://github.com/vindou/VEX-CAD-Fusion-360-Library/releases/tag/latest)
+## [Latest Release](https://github.com/VEX-CAD/VEX-CAD-Fusion-360-Library/releases/latest)
 
 This parts library features every VRC legal part currently available, and will continue to be updated as new parts get released. This library is the second iteration of the original Fusion 360 Library.
 
@@ -19,7 +19,7 @@ This parts library features every VRC legal part currently available, and will c
 
 Follow instructions below to use the [Fusion Batch Import](https://github.com/zeulewan/fusion-batch-import) script to import all parts at once:
 
-1. Download this library's [zip file](https://github.com/vindou/VEX-CAD-Fusion-360-Library/archive/refs/tags/v2.0.2.zip)
+1. Download this library's [zip file from the latest release](https://github.com/VEX-CAD/VEX-CAD-Fusion-360-Library/releases/latest)
 2. Unzip the downloaded file
 3. Install [GitHubToFusion360](https://apps.autodesk.com/FUSION/en/Detail/Index?id=789800822168335025) from Autodesk App Store
 4. In Fusion 360, press `Shift+S` → run **GitHubToFusion360**
@@ -37,7 +37,7 @@ There are now files for *every length* of structure, similar to the [Inventor li
 
 Additionally, every available length for spacers, screws, and standoffs are now available. 
 
-[You can view the full changelog here](https://github.com/vindou/VEX-CAD-Fusion-Library/blob/main/changelog.md)
+[You can view the full changelog here](https://github.com/VEX-CAD/VEX-CAD-Fusion-360-Library/blob/main/changelog.md)
 
 
 ## VEX CAD Discord
