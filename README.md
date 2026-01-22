@@ -52,6 +52,7 @@ If you need more help, or would like assistance from experienced users, please a
 
 ## Fusion 360 Library Contributors
 ### Current Contributors
+- [Ryu](https://github.com/reerooryu) - 1721G
 Currently, no one is working on updating the library. If you would like to contribute, join the [Discord server](https://discord.gg/BKV3DJm), and message the server leadership.
 
 ### Past Contributors
