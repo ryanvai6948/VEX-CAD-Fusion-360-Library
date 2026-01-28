@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 2.0.4
+#### Field Elements
+- Added field elements for VRC Push Back
+
 ## Version 2.0.3
 #### Batch Import Script
 - Updated README with steps to batch import the library into Fusion
