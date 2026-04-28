@@ -65,3 +65,4 @@ Currently, no one is working on updating the library. If you would like to contr
 - [Ali](https://github.com/aliuahma) - 1353V, 80001B
 - [Zeul](https://github.com/zeulewan/) - [Fusion Batch Import](https://github.com/zeulewan/fusion-batch-import)
 - [Ryu](https://github.com/reerooryu) - 4139D
+- Ryan - 355Z
